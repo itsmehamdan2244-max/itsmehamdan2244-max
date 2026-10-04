@@ -32,7 +32,7 @@
 ---
 
 
-### 📬 Connect with Me
+### Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-hamdan-835ba0428?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
