@@ -5,14 +5,14 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning web development and programming alongside my friend.
-- 💻 Passionate about writing clean code and exploring new technologies.
-- ⚡ Fun fact: I love solving coding problems and building cool projects.
+###  About Me
+-  I’m currently learning web development and programming alongside my friend.
+-  Passionate about writing clean code and exploring new technologies.
+-  Fun fact: I love solving coding problems and building cool projects.
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 <div align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
