@@ -6,7 +6,7 @@
 ---
 
 ###  About Me
--  I’m currently learning web development and programming alongside my friend.
+-  I’m currently learning web development and programming.
 -  Passionate about writing clean code and exploring new technologies.
 -  Fun fact: I love solving coding problems and building cool projects.
 
