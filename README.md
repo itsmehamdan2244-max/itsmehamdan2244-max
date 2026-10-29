@@ -25,8 +25,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmehamdan2244-max&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehamdan2244-max&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmehamdan2244-max&theme=radical" />
 </div>
 
 ---
